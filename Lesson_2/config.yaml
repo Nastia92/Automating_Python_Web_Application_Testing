@@ -1,0 +1,7 @@
+address: https://test-stand.gb.ru
+username: Nastya379
+password: 2d94b3b2a2
+sleep_time_1: 10
+address_create: https://test-stand.gb.ru/posts/create
+sleep_time: 2
+browser: chrome
